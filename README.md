@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @narwar-veer
-- 👀 I’m interested in Development 
+- 👀 I’m interested in Development and Competitive Programming 
 - 🌱 I’m currently learning Machine learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on liknedin  https://www.linkedin.com/in/harveer-narwar/
 
 <!---
 narwar-veer/narwar-veer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
