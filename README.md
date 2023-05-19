@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narwar-veer
-- 👀 I’m interested in Development and Competitive Programming. 
-- 🌱 I’m currently doing Machine learning, DSA with C++
+- 👀 Machine Learning and Deep Learning Enthusiast
+- 🌱 I’m currently doing Machine Learing Operations.
 - 📫 How to reach me on liknedin  https://www.linkedin.com/in/harveer-narwar/
 
 <!---
