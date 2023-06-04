@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @narwar-veer
 - 👀 Machine Learning and Deep Learning Enthusiast
-- 🌱 I’m currently doing Machine Learing Operations.
+- 🌱 I’m currently doing Machine Learning Operations.
 - 📫 How to reach me on liknedin  https://www.linkedin.com/in/harveer-narwar/
 
 <!---
