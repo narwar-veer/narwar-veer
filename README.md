@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narwar-veer" alt="narwar-veer" /></a> </p>
 
-- 🌱 I’m currently learning **MLOps,DSA**
+- 🌱 I’m currently learning **GoLang,DSA**
 
-- 💬 Ask me about **Machine Learning,IoT**
+- 💬 Ask me about **Backend Developer**
 
 - 📫 How to reach me **narwarveer108@gmail.com**
 
