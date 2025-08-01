@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harveer Narwar</h1>
-<h3 align="center">MLOps enthusiast</h3>
+<h3 align="center">Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narwar-veer&label=Profile%20views&color=0e75b6&style=flat" alt="narwar-veer" /> </p>
 
