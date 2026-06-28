@@ -8,11 +8,9 @@
 
 ## Professional Profile
 
-Final Year Electronics & Communication Engineering student focused on backend engineering.
-
 I build secure and scalable RESTful APIs using the Spring ecosystem, with strong emphasis on clean architecture, performance, and maintainability.
 
-- Solved 400+ Data Structures & Algorithms problems
+- Solved 500+ Data Structures & Algorithms problems
 - Strong understanding of OOP, SOLID principles, and design patterns
 - Hands-on experience with Spring Security (JWT) and Role-Based Access Control (RBAC)
 - Experience designing relational database schemas with indexing and query optimization
@@ -26,8 +24,8 @@ I build secure and scalable RESTful APIs using the Spring ecosystem, with strong
 | Languages | Java (11/17), C++, SQL |
 | Backend | Spring Boot, Spring Data JPA, Spring Security, Hibernate |
 | Databases | PostgreSQL, MySQL |
-| DevOps | Docker, Git, Maven |
-| API Tools | Postman, Swagger/OpenAPI |
+| DevOps | Docker, Git, Maven, Jenkins |
+| API Tools | Postman |
 
 ---
 
